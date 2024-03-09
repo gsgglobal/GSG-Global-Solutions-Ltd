@@ -1,4 +1,4 @@
 # GSG-Global-Solutions-Ltd
-Odoo ERP for business | Certified Odoo Partner in UK - Gsg Global 
-Gsg Global is UK's Leading Odoo Gold Partner based in the UK. We offer Odoo ERP and CRM enterprise application software in London and the UK.
-https://www.gsgglobalsolutions.com/odoo
+#1 Business Management Software Suite | NetSuite - Gsg Global
+NetSuite is the Worlds #1 Business Management Software Suite. Gsg Global is one of the leading NetSuite ERP, CRM implementation partners in the UK
+https://www.gsgglobalsolutions.com/netsuite
