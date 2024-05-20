@@ -1,4 +1,7 @@
 # GSG-Global-Solutions-Ltd
-#1 Business Management Software Suite | NetSuite - Gsg Global
-NetSuite is the Worlds #1 Business Management Software Suite. Gsg Global is one of the leading NetSuite ERP, CRM implementation partners in the UK
-https://www.gsgglobalsolutions.com/netsuite
+Manufacturing Accounting Software | Manufacturing Software UK
+
+GSG Provides the best Manufacturing Accounting Software in the UK. Manufacturing Software helps you track inventory, build items, and run financial reports.
+
+
+https://www.gsgglobalsolutions.com/accounting-software-for-manufacturing-businesses
